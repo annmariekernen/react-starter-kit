@@ -129,5 +129,5 @@ import { Button } from '@/components/ui/button'
 ---
 
 <div align="center">
-<sub>Built by Ann Marie Kernen · <a href="LICENSE">MIT License</a></sub>
+<sub>Built with Claude ~ Ann Marie</sub>
 </div>
